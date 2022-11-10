@@ -1,7 +1,7 @@
 accelerator:
-  displayName: Surfers Python-Flask Accelerator
-  description: Contains the Surfers system python-flask scafolding for a new module
-  iconUrl: https://raw.githubusercontent.com/davlloyd/surfers-flask-accelerator/main/main/static/images/surfing-web-icon.png
+  displayName: VM Explore Accelerator
+  description: Demo accelerator for VM Explore Singapore
+  iconUrl: https://raw.githubusercontent.com/dmnt3d/surfers-flask-accelerator/a5d1906f1432749dc5d016364798e7c9080e3115/vmware-explore-share-logo-square-1080x1080.png #https://raw.githubusercontent.com/surfers-lookout/surfers-flask-accelerator/main/main/static/images/surfing-web-icon.png
   tags:
   - surferslookout
   - python
